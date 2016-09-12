@@ -1,0 +1,33 @@
+{
+  "name": "exif-orientation",
+  "version": "1.0.0",
+  "description": "Returns the exif orientation is scale / rotation from a file object",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Nick Poisson",
+    "email": "nick@jam3.com",
+    "url": "https://github.com/njam3"
+  },
+  "dependencies": {
+    "exif-js": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "exit,",
+    "image,",
+    "file,",
+    "orientation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/njam3/exif-orientation.git"
+  },
+  "homepage": "https://github.com/njam3/exif-orientation",
+  "bugs": {
+    "url": "https://github.com/njam3/exif-orientation/issues"
+  }
+}
