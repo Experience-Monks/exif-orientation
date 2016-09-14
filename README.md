@@ -38,4 +38,4 @@ fileUpload.addEventListener('change',function(e) {
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/njam3/exif-orientation/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](http://github.com/Jam3/exif-orientation/blob/master/LICENSE.md) for details.
