@@ -24,10 +24,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/njam3/exif-orientation.git"
+    "url": "git://github.com/Jam3/exif-orientation.git"
   },
-  "homepage": "https://github.com/njam3/exif-orientation",
+  "homepage": "https://github.com/Jam3/exif-orientation",
   "bugs": {
-    "url": "https://github.com/njam3/exif-orientation/issues"
+    "url": "https://github.com/Jam3/exif-orientation/issues"
   }
 }
